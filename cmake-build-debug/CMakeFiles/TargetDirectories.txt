@@ -1,0 +1,3 @@
+/Users/fanzhengchen/CLionProjects/opencv-crop-image/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fanzhengchen/CLionProjects/opencv-crop-image/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fanzhengchen/CLionProjects/opencv-crop-image/cmake-build-debug/CMakeFiles/opencv_crop_image.dir

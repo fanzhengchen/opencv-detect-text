@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fanzhengchen/CLionProjects/opencv-crop-image/main.cpp
+iostream
+-
+vector
+-
+string
+-
+opencv2/opencv.hpp
+-
+
